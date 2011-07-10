@@ -1,1 +1,6 @@
-Fork from Chrome Extension 2.71 beta for Mac.
+Fork from Chrome Extension 2.71 beta for Mac. This probably works just as well
+for Windows and Linux, but you'll have to get the correct NPAPI plugins for
+your architecture.
+
+To use this extension, just load as an unpacked extension in Chrome. See here:
+http://code.google.com/chrome/extensions/getstarted.html#load
