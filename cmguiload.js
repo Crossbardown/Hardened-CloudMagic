@@ -10,7 +10,7 @@ CloudMagic.InterfaceLoader = function () {
     // VERSION_START //
 	self.CMSCRIPTVER = "2_71_Beta";
 	self.cmDebug = "0";
-	self.CMHST = "www.cloudmagic.com";
+	self.CMHST = "localhost";
 	// VERSION_END //
     
     self.CMPTL = "https:";

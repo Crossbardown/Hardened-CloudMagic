@@ -15,7 +15,7 @@ CloudMagic.Background = function () {
 
 // VERSION_START //
 	self.ts_ = "1309960644";
-	self.CMHST = "www.cloudmagic.com";
+	self.CMHST = "localhost";
 // VERSION_END //
     
     self.cloudmagicgui_ = document.getElementById("cloudmagicgui");
