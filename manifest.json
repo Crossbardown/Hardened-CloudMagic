@@ -17,8 +17,8 @@
   "minimum_chrome_version": "9",
 	"permissions": ["tabs", "contextMenus"], 
 "plugins": [
-{ "path": "plugins/npcloudmagicgui.plugin", "public": true },
-{ "path": "plugins/npcloudmagicdl.plugin", "public": true }
+{ "path": "plugins/npcloudmagicgui.plugin", "public": false },
+{ "path": "plugins/npcloudmagicdl.plugin", "public": false }
 ],
 "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDatCjHwt+PQHg/+/JcNrxDCQy1k1kKplIHuCpzgIuO+urauR3RxGwmoWdDOjJzYuQ35IrlONAlqT6+BXppqkOSu1t5mL5yQtCQP/7IbRPKeQMkxr1/3P/R2xK0l2vtjspEckvXe0yq9M3mYv2YYCGQ5uuNTEQVK9Y8BS0fOfVcfQIDAQAB"
 }
